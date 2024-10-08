@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!👋 I'm Noé</h1>
-<h3 align="center">Physics student at EPFL 🏞️</h3>
+<h3 align="center">Physics student at EPFL🏞️ & Imperial College London 🌆</h3>
 <br\><br\>
 
 - 🔭 Currently a full-time Kart-Simulator worker
